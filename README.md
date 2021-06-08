@@ -25,3 +25,6 @@ npm run dev
 
 - Encurta a URL
 - Mostra estatísticas de quantas vezes o link encurtado foi utilizado.
+
+
+Feito por Vinicius Alberti
