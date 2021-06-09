@@ -7,6 +7,7 @@ Recursos utilizados:
 - SQLite
 - EJS
 - Dotenv
+- Sequelize
 
 ## Rotas
 
